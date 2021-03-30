@@ -1,0 +1,13 @@
+E:\lib\Csharp\ConsJIRA\ConsJIRA\bin\Debug\ConsJIRA.exe.config
+E:\lib\Csharp\ConsJIRA\ConsJIRA\bin\Debug\ConsJIRA.exe
+E:\lib\Csharp\ConsJIRA\ConsJIRA\bin\Debug\ConsJIRA.pdb
+E:\lib\Csharp\ConsJIRA\ConsJIRA\bin\Debug\Atlassian.Jira.dll
+E:\lib\Csharp\ConsJIRA\ConsJIRA\bin\Debug\Newtonsoft.Json.dll
+E:\lib\Csharp\ConsJIRA\ConsJIRA\bin\Debug\RestSharp.dll
+E:\lib\Csharp\ConsJIRA\ConsJIRA\bin\Debug\Newtonsoft.Json.xml
+E:\lib\Csharp\ConsJIRA\ConsJIRA\bin\Debug\RestSharp.xml
+E:\lib\Csharp\ConsJIRA\ConsJIRA\obj\Debug\ConsJIRA.csprojAssemblyReference.cache
+E:\lib\Csharp\ConsJIRA\ConsJIRA\obj\Debug\ConsJIRA.csproj.CoreCompileInputs.cache
+E:\lib\Csharp\ConsJIRA\ConsJIRA\obj\Debug\ConsJIRA.csproj.CopyComplete
+E:\lib\Csharp\ConsJIRA\ConsJIRA\obj\Debug\ConsJIRA.exe
+E:\lib\Csharp\ConsJIRA\ConsJIRA\obj\Debug\ConsJIRA.pdb
