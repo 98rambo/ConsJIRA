@@ -123,7 +123,7 @@ namespace ConsJIRA
             ShowProjects().Wait();
             bool Exit = false;
             while (!Exit){
-                Console.WriteLine("Выберите вариант действия\n1)Вывести список изменений в файл\n2)Поменять путь для выходного файла\n2)Выйти из программы");
+                Console.WriteLine("Выберите вариант действия\n1)Вывести список изменений в файл\n2)Поменять путь для выходного файла\n3)Выйти из программы");
                 String UserPick = Console.ReadLine();
 
                 switch (UserPick){
